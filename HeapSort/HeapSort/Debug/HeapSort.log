@@ -1,0 +1,8 @@
+﻿  HeapSort.cpp
+  The contents of <numbers> are available only with C++20 or later.
+C:\Users\Lex\source\repos\HeapSort\HeapSort\HeapSort.cpp(300,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Lex\source\repos\HeapSort\HeapSort\HeapSort.cpp(325,31): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\Lex\source\repos\HeapSort\HeapSort\HeapSort.cpp(328,29): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\Lex\source\repos\HeapSort\HeapSort\HeapSort.cpp(112): warning C4715: deq::popFirst: значение возвращается не при всех путях выполнения
+C:\Users\Lex\source\repos\HeapSort\HeapSort\HeapSort.cpp(136): warning C4715: deq::popLast: значение возвращается не при всех путях выполнения
+  HeapSort.vcxproj -> C:\Users\Lex\source\repos\HeapSort\Debug\HeapSort.exe
